@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Design , MERN**
+- 💬 Ask me about **UI/UX Design and MERN Stack**
 
 - 📫 How to reach me **kartikhustles@gmail.com**
 
@@ -17,6 +17,7 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kartikagarwal-/)
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kartikhustles&show_icons=true&locale=en&theme=tokyonight" alt="kartikhustles" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikhustles&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kartikhustles" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kartikhustles&show_icons=true&locale=en&theme=tokyonight" alt="kartikhustles" /></p>
