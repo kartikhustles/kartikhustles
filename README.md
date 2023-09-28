@@ -1,67 +1,43 @@
-### Hi there 👋, I'm [Your Name](https://your-portfolio-link.com)!
+# Hello, I'm [Your Name]! 👋
 
-I'm a 3rd Year Student 👨‍🎓 who is passionate about Full Stack Development and UI/UX Designing. I'm creative, driven, and always ready to take up new challenges.
+I'm a 3rd-year student passionate about full-stack development and UI/UX design. 
+I love to explore and learn about new things.
 
-- 🔭 I’m currently working on something cool 😉.
-- 🌱 Learning everything about Frontend and Backend technologies 😅.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new things.
+<a href="https://twitter.com/yourusername">
+  <img align="left" alt="Your Name | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/yourusername/">
+  <img align="left" alt="Your Name's LinkdeIN" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/yourusername/">
+  <img align="left" alt="Your Name's Instagram" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/instagram.svg" />
+</a>
+  [![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+	  ## 🚀 Skills 
 
----
+### Languages
+- JavaScript
+- Python
+- HTML
+- CSS
 
-### 🚀 My Skills
+### Technologies & Tools
+- React
+- Node.js
+- Express
+- MongoDB
+- Adobe XD
+- Figma  ## 🛠️ Some of My Best Work 
 
-#### 👨‍💻 Programming languages
+### [Project One](https://github.com/yourusername/project-one)
+A brief description of project one. Explain what it does, the challenges you faced, and the skills you applied.
 
-<p>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-</p>
+### [Project Two](https://github.com/yourusername/project-two)
+Description of project two, its goals, and the outcomes. Share the technologies used and the experience gained.
 
-#### 🧰 Frameworks and libraries
+### [Project Three](https://github.com/yourusername/project-three)
+Intro to project three, it’s features and your contribution. Share insights on the development process and the results.  > "Code is like humor. When you have to explain it, it’s bad." - Cory House
 
-<p>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
-</p>
+Feel free to reach out if you're looking for a developer, have a question, or just want to connect. 
 
-#### 💽 Databases
-
-<p>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-</p>
-
-#### 💻 Software and tools
-
-<p>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"></code>
-</p>
-
----
-
-### 🕵️‍♂️ Check out my awesome work
-
-<-- Here you can add some cool GIF that matches the black background -->
-
-<img align="center" alt="Coding" src="https://your-gif-link.com" width="500" height="320" />
-
----
-
-### 📫 How to reach me
-
-- [Visit my Portfolio](https://your-portfolio-link.com)
-- [Follow me on Instagram](https://instagram.com/yourusername)
-- [Connect with me on LinkedIn](https://linkedin.com/in/yourusername)
-- [Send me an Email](mailto:youremail@gmail.com)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
