@@ -13,6 +13,10 @@
 
 - ⚡ Fun fact **People call me Funny**
 
+<h3 align="left">Connect with me:</h3>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kartikagarwal-/)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikhustles&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kartikhustles" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kartikhustles&show_icons=true&locale=en&theme=tokyonight" alt="kartikhustles" /></p>
