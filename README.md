@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kartikhustles@gmail.com**
 
-- ⚡ Fun fact **People call me Funny**
+- ⚡ Fun fact **People call me Sarcastic**
 
 <h3 align="left">Connect with me:</h3>
 
