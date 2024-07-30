@@ -3,7 +3,7 @@
 <h3 align="center">A passionate FullStack and UI/UX Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m going to join **Microsoft(SWE intern '24)**
+- 🔭 I’m going to join **Microsoft as SWE**
 
 - 🌱 I’m currently learning **MERN Stack**
 
