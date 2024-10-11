@@ -5,7 +5,7 @@
 
 - 🔭 I’m going to join **Microsoft as SWE**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **AI/LLMs**
 
 - 💬 Ask me about **UI/UX Design and MERN Stack**
 
