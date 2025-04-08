@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kartikagarwal-/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kartikhustles/)
 <br/>
 
 [![An image of @kartikhustles's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kartikhustles)](https://holopin.io/@kartikhustles)
