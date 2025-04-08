@@ -5,9 +5,9 @@
 
 - 🔭 I’m going to join **Microsoft as SWE**
 
-- 🌱 I’m currently learning **AI/LLMs**
+- 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **UI/UX Design and MERN Stack**
+- 💬 Ask me about **UI/UX, React.js and Backend Development**
 
 - 📫 How to reach me **kartikhustles@gmail.com**
 
