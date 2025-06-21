@@ -3,15 +3,13 @@
 <h3 align="center">A passionate FullStack and UI/UX Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m going to join **Microsoft as SWE**
+- 🔭 I work at **Microsoft as SWE**
 
 - 🌱 I’m currently learning **AI/ML**
 
 - 💬 Ask me about **UI/UX, React.js and Backend Development**
 
 - 📫 How to reach me **kartikhustles@gmail.com**
-
-- ⚡ Fun fact **People call me Sarcastic**
 
 <h3 align="left">Connect with me:</h3>
 
